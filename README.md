@@ -39,7 +39,7 @@ This is the backend component of the Employee Management System, a full-stack ap
 1. Clone the repository
 2. Configure the database connection in `application.properties`
 3. Run the Spring Boot application.
-4. Go to the front-end repository and follow the instructions.
+4. Go to the [Front-end repository](https://github.com/JTarangoDev/Employee-System-frontend) and follow the instructions.
 
 ## API Endpoints
 
