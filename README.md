@@ -3,6 +3,7 @@
 ## Description
 
 This is the backend component of the Employee Management System, a full-stack application. It provides a RESTful API for managing employee data, built with Spring Boot and connected to a MySQL database.
+[Frontend repository] (https://github.com/JTarangoDev/Employee-System-frontend)
 
 ## Features
 
@@ -38,6 +39,7 @@ This is the backend component of the Employee Management System, a full-stack ap
 1. Clone the repository
 2. Configure the database connection in `application.properties`
 3. Run the Spring Boot application.
+4. Go to the front-end repository and follow the instructions.
 
 ## API Endpoints
 
